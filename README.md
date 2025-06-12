@@ -95,10 +95,3 @@ Aplikasi **Kalkulator To Do List** adalah aplikasi sederhana yang menggabungkan 
 > Terima kasih sudah melihat proyek ini! Jika ada saran atau feedback, silakan kirim melalui GitHub Issue 🙌
 
 ```
-
----
-
-Kalau kamu udah siapin file `kalkulator.sql` dan pastikan semua foldernya rapi, README ini bisa langsung ditempel di repo kamu.
-
-Butuh aku bantuin auto-generate juga versi markdown file-nya atau langsung upload ke GitHub, tinggal bilang ya, Sit!
-```
