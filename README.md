@@ -1,9 +1,9 @@
 
-# 📱 Kalkulator To Do List
+# 📱 To Do List
 
 ## 📌 Deskripsi Aplikasi
 
-Aplikasi **Kalkulator To Do List** adalah aplikasi sederhana yang menggabungkan fitur kalkulator dan manajemen to-do list. Aplikasi ini dibangun menggunakan **Flutter (Frontend)** dan **Laravel (Backend API)**.
+Aplikasi **To Do List** adalah aplikasi sederhana yang menggabungkan fitur kalkulator dan manajemen to-do list. Aplikasi ini dibangun menggunakan **Flutter (Frontend)** dan **Laravel (Backend API)**.
 
 ### ✨ Fitur Utama
 - Halaman To Do List: Menambah, mengedit, dan menghapus tugas harian.
